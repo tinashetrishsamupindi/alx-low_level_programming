@@ -1,1 +1,1 @@
-this file contains functions and pointers
+thia file ontains function pointers
